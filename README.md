@@ -13,4 +13,4 @@ My name is Kuba and I welcome you into my repositories!
 
 😄 Pronouns: He/his
 
-⚡ Fun fact: You can find me here! --> ![LinkedIn](https://linkedin.com/in/jakub-wisniewski-a89408188)
+⚡ Fun fact: You can find me here! --> [LinkedIn](https://linkedin.com/in/jakub-wisniewski-a89408188)
