@@ -11,6 +11,6 @@ My name is Kuba and I welcome you into my repositories!
 
 📫 How to reach me: jakub.pawel.wisniewski@gmail.com
 
-😄 Pronouns: He/his
+😄 Pronouns: He/him
 
 ⚡ Fun fact: You can find me here! --> [LinkedIn](https://linkedin.com/in/jakub-wisniewski-a89408188)
