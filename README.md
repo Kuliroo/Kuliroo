@@ -9,7 +9,7 @@ My name is Kuba and I welcome you into my repositories!
 
 💬 Ask me about history and geography!
 
-📫 How to reach me: ![Email address](jakub.pawel.wisniewski@gmail.com)
+📫 How to reach me: jakub.pawel.wisniewski@gmail.com
 
 😄 Pronouns: He/his
 
